@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+data/produtos_tratados.csv
+data/produtos.db
+.ipynb_checkpoints/
